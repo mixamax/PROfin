@@ -1,0 +1,7 @@
+.button-instructions {
+    background-color: var(--aside-card-bg-color);
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    height: 35px;
+}

@@ -1,0 +1,25 @@
+:root {
+    font-family: Inter, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    --primary-color: #ffffff;
+    --secondary-color: #171d2c;
+    --primary-bg-color: #eff1f2;
+    --aside-card-bg-color: #171d2c;
+    --aside-secondary-card-bg-color: #283047;
+    --aside-secondary-color: #657193;
+    --primary-button-bg-color: #1677ff;
+    --secondary-button-color: #171d2c;
+    --tretiary-button-border-color: #ff6b17;
+    --tarif-bg-color: #eef5ff;
+    --light-row-bg-color: #fafbfb;
+    --border-gray-color: #d7dade;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}

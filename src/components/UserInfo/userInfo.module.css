@@ -1,0 +1,38 @@
+.userInfo {
+    display: flex;
+    align-items: center;
+    padding: 0 16px 0 22px;
+    height: 70px;
+    width: 800px;
+    background-color: var(--primary-color);
+    border-radius: 20px;
+}
+
+.userInfo-text {
+    padding-left: 6px;
+    font-size: 17px;
+    color: var(--secondary-color);
+}
+
+.date {
+    margin-left: 30px;
+    height: 60px;
+    background-color: var(--tarif-bg-color);
+    padding: 0 15px;
+    border-radius: 20px;
+}
+
+.date-text {
+    padding-left: 10px;
+    font-size: 17px;
+    color: var(--primary-button-bg-color);
+}
+
+.userInfo-button {
+    border-radius: 20px;
+    height: 34px;
+}
+
+.orange-bg {
+    background-color: var(--tretiary-button-border-color);
+}
